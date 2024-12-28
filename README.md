@@ -8,10 +8,6 @@
 - [next-i18next](https://github.com/i18next/next-i18next) 
 
 实用工具/API
-- [Airtable QR Code Generator](https://airtable-qr-code-generator.funshowtech.com/)
-- [Bulk QR Code Generator](https://www.bulkqrcodegenerator.net/)
+- [Transparent QR Code Generator](https://www.funshowtech.com/product/qrcode/qr-code-generator-with-transparent-background)
+- [Bulk QR Code Generator](https://www.funshowtech.com/product/qrcode/bulk-qr-code-generator)
 - [Funshow](https://www.funshowtech.com/)
-
-AI工具
-- [AI Image Generator](https://www.aiimagegenerator.vip/)
-- [ai 画像 生成](https://www.aiimagegenerator.vip/ja)
