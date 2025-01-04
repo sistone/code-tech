@@ -10,4 +10,4 @@
 实用工具/API
 - [Transparent QR Code Generator](https://www.funshowtech.com/product/qrcode/qr-code-generator-with-transparent-background)
 - [Bulk QR Code Generator](https://www.funshowtech.com/product/qrcode/bulk-qr-code-generator)
-- [Funshow](https://www.funshowtech.com/)
+- [QR Code Generator - Funshow](https://www.funshowtech.com/)
